@@ -26,6 +26,11 @@ To run or modify this project, you will need:
    ```
 3. Open `index.html` in your preferred web browser to view the website.  
 
+## Demo Video
+## Demo Video 🎥
+Watch the demo of the NGO Website Project here:  
+[Download the demo video](assets/Screen%20Recording.mp4)
+
 ## Folder Structure 🗂️
 ```
 ngo-website/
